@@ -14,3 +14,13 @@ Creating Markdown File
 *__week3:__
 
 Introduction to Python - Number and strings
+
+*__week4-1:__
+
+while loops - الحلقات
+(حل التحدي )
+
+*__week5-1:__
+
+for loops - الحلقات
+(حل التحدي)
