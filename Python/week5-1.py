@@ -38,6 +38,6 @@ if (name==s1[0]):
 elif(name==s2[0]):
     print(s2[0] +" " + str(sum(s2[1:6])))
 elif(name==s3[0]):
-        print(s3[0] +" " + str(sum(s3[1:6])))
+    print(s3[0] +" " + str(sum(s3[1:6])))
 else:
     print("Student is not recorded 0")
